@@ -26,3 +26,36 @@
     font-size: 70px;
     margin-bottom: 10px;
 }
+#mainPageContent > p{
+    font-size: 15px;
+}
+#aboutUs{
+    background-color: #0b161a;
+}
+#aboutUs > p{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 100px;
+}
+#aboutUs > h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-top: -5px;
+}
+#aboutUsContainer{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+
+}
+.AUpictures{
+    width: 380px;
+    height: 420px;
+    background-color: antiquewhite;
+    border: blue solid 1px;
+}
